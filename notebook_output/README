@@ -1,0 +1,6 @@
+Stuart MacGowan (s.macgowan@dundee.ac.uk), 2020-04-02
+
+This directory contains output from Jupyter notebooks.
+
+Any Excel files are reformatted versions of CSV files. These are useful for
+making nice tables for reports.

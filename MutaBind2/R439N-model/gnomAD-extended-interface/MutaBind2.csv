@@ -1,0 +1,4 @@
+This file was created by the MutaBind2 Server
+Mutated Chain,Mutation,DDG,Interface?,Deleterious?,DDE_vdw,DDG_solv,DDG_fold,CS,SA_com_wt,SA_part_wt,N_cont_wt,bootstrapFC,Model_Bias
+A,G326E,-0.59,yes,no,-0.3665,0.5874,-0.1284,-0.7526,-0.2091,-0.2037,0.0579,-0.0018,0.4286
+A,G352V,1.69,no,yes,0.0962,0.1547,0.9143,0.3443,0.5331,-0.9021,0.1204,-0.0018,0.4286

@@ -1,0 +1,9 @@
+chain,wild-type,res-number,mutant,distance-to-interface,mcsm-ppi2-prediction,affinity
+A,LYS,26,ARG,6.04,-0.049,Decreasing
+A,GLY,211,ARG,23.878,-0.322,Decreasing
+A,PRO,389,HIS,8.1,-0.07,Decreasing
+A,TRP,69,CYS,11.758,-0.531,Decreasing
+A,LEU,351,VAL,6.445,-0.689,Decreasing
+A,VAL,506,ALA,33.007,0.069,Increasing
+A,VAL,209,GLY,25.582,0.121,Increasing
+A,GLY,377,GLU,17.262,-0.469,Decreasing
