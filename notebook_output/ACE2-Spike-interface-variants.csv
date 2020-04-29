@@ -1,0 +1,11 @@
+ID,Mutation,Allele Count,AC Male,AC Popn. Max,Popn. Max
+rs73635825,p.Ser19Pro,40,6,39,AFR
+rs781255386,p.Thr27Ala,2,0,2,AMR
+rs758278442,c.93G>A(p.%3D),3,1,3,EAS
+rs368655410,c.102C>T(p.%3D),111,39,52,FIN
+-,p.Glu35Lys,3,1,2,EAS
+rs146676783,p.Glu37Lys,6,3,5,FIN
+rs766996587,p.Met82Ile,0,0,0,
+rs766996587,p.Met82Ile,2,0,2,AFR
+rs143936283,p.Glu329Gly,5,0,4,NFE
+-,p.Asp355Asn,2,0,2,NFE

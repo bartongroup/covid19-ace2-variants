@@ -1,0 +1,10 @@
+ID,Mutation,Allele Count,AC Male,AC Popn. Max,Popn. Max
+rs751603885,p.Arg697Gly,46,35,45,SAS
+-,p.Lys702ArgfsTer16,0,0,0,
+rs780128908,p.Ala703Ser,3,0,3,NFE
+rs372986872,p.Met706Ile,1,0,1,NFE
+rs769062069,p.Arg708Gln,1,1,1,NFE
+rs776995986,p.Arg708Trp,1,0,1,NFE
+-,p.Ser709Arg,1,0,1,NFE
+rs370187012,p.Arg710His,7,2,2,EAS
+-,p.Arg710Cys,3,0,1,EAS

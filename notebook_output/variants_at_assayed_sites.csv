@@ -1,0 +1,13 @@
+,ID,Mutation,Allele Count,AC Male,AC Popn. Max,Popn. Max,START,END,effect,mutant
+0,rs146676783,p.Glu37Lys,6,3,5,FIN,37,37,No effect,E->A
+1,rs755691167,p.Lys68Glu,2,2,2,SAS,68,68,Slightly inhibits,K->D
+2,rs766996587,p.Met82Ile,0,0,0,,82,84,Inhibits,MYP->NFS
+3,rs766996587,p.Met82Ile,2,0,2,AFR,82,84,Inhibits,MYP->NFS
+4,rs759590772,p.Arg219His,18,11,17,SAS,219,219,No effect,R->D
+5,rs372272603,p.Arg219Cys,58,17,52,NFE,219,219,No effect,R->D
+6,-,p.His239Gln,1,0,1,NFE,239,239,No effect,H->Q
+7,rs780574871,p.Glu312Lys,3,1,2,AFR,312,312,No effect,E->A
+8,-,p.Asn338Ser,3,1,2,AMR,338,340,No effect,NVQ->DDR
+9,-,p.Asp355Asn,2,0,2,NFE,355,355,Strongly inhibits,D->A
+10,rs762890235,p.Pro389His,7,2,4,AMR,389,389,Slightly inhibits,P->A
+11,-,p.Arg559Ser,1,0,1,AMR,559,559,Slightly inhibits,R->S

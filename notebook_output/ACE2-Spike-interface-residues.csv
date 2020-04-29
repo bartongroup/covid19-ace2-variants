@@ -1,0 +1,26 @@
+ACE2 Residue,Interface Contact Number,Min. VdW Distance,S-protein counterparts,ARPEGGIO Interaction Types,RSA Class Free,RSA Class Complex,delta-RSA,ratio-RSA
+S19,3,0.0,"A475, G476, S477","Polar-Bond, VdW-Bond, Clash",Surface,Surface,30.0,0.7291661024293801
+Q24,6,0.0,"A475, N487, G476, F486, S477, Y489","H-Bond, Clash",Surface,Part. Exposed,27.778,0.3373410625253465
+T27,5,0.401,"A475, N487, F456, Y473, Y489",VdW-Proximal,Surface,Part. Exposed,47.183,0.24719190758823154
+F28,1,0.156,Y489,"H-Bond, Polar-Bond",Part. Exposed,Core,7.106,0.17649785606675164
+D30,2,0.716,"L455, F456",Hydrophobic-Bond,Surface,Surface,10.429000000000002,0.8089961722312777
+K31,6,0.0,"Q493, L455, L492, F456, F490, Y489","Hydrophobic-Bond, Clash",Surface,Part. Exposed,51.219,0.19847579105505306
+H34,3,0.0,"Q493, L455, Y453","Aromatic-Bond, H-Bond, Hydrophobic-Bond, Polar-Bond, VdW-Bond, Clash",Surface,Surface,51.63099999999999,0.37499546054304017
+E35,1,0.0,Q493,"H-Bond, Polar-Bond, Clash",Surface,Surface,11.339999999999996,0.7471289998885049
+E37,1,0.145,Y505,"H-Bond, Hydrophobic-Bond, Polar-Bond",Part. Exposed,Part. Exposed,10.309,0.5348973607038123
+D38,4,0.0,"Q498, G496, HOH701, Y449","H-Bond, Polar-Bond, VdW-Bond, Clash",Surface,Part. Exposed,21.473000000000003,0.48528213241286733
+Y41,4,0.0,"N501, Q498, HOH701, T500","H-Bond, Polar-Bond, VdW-Bond, Clash",Part. Exposed,Core,19.82,0.0
+Q42,4,0.0,"Q498, HOH701, T446, Y449","VdW-Bond, Clash",Surface,Surface,16.160999999999998,0.6144707650468761
+L45,2,0.373,"Q498, T500",VdW-Proximal,Surface,Part. Exposed,12.195,0.5555596049418711
+L79,2,0.141,"G485, F486",Hydrophobic-Bond,Surface,Part. Exposed,10.366,0.6909085487670334
+M82,1,0.081,F486,"Hydrophobic-Bond, VdW-Bond",Surface,Surface,19.149000000000008,0.7410057346894611
+Y83,3,0.0,"N487, F486, Y489","Aromatic-Bond, H-Bond, Hydrophobic-Bond, Polar-Bond, VdW-Bond, Clash",Part. Exposed,Core,17.567,0.048787091184752
+Q325,2,1.364,"R439, V503",VdW-Proximal,Surface,Surface,7.576000000000008,0.9025945640155313
+E329,1,0.986,R439,VdW-Proximal,Surface,Surface,16.494999999999997,0.7762206454938884
+N330,1,0.33,T500,VdW-Proximal,Surface,Part. Exposed,17.834000000000003,0.5625061328623294
+K353,7,0.0,"N501, Q498, G496, G502, HOH701, F497, Y505","H-Bond, Hydrophobic-Bond, Polar-Bond, VdW-Bond, Clash",Surface,Part. Exposed,49.756,0.09734770146221108
+G354,3,0.227,"N501, G502, Y505",Polar-Bond,Surface,Part. Exposed,36.903999999999996,0.36735638489362793
+D355,2,0.195,"G502, T500",VdW-Proximal,Core,Core,4.295,0.12489812550937245
+R357,1,0.214,T500,VdW-Proximal,Part. Exposed,Core,4.033,0.5237364194615021
+R393,1,0.463,Y505,VdW-Proximal,Part. Exposed,Part. Exposed,4.838999999999999,0.7735716625333396
+,2,0.085,"R408, T415","H-Bond, Polar-Bond, VdW-Bond",,,,

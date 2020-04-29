@@ -1,0 +1,6 @@
+This file was created by the MutaBind2 Server
+Mutation ID,Mutated Chain,Mutation,DDG,Interface?,Deleterious?,DDE_vdw,DDG_solv,DDG_fold,CS,SA_com_wt,SA_part_wt,dE_vdw_wt,bootstrapFC,Model_Bias
+M1,A;A;A;A;A;A;A;A;A,Q24L;T27K;K31D;H34S;D38N;Y41H;M82N;Y83F;E329N,2.99,yes;yes;yes;yes;yes;yes;yes;yes;no,yes,-0.2421,1.2061,0.9846,0.0628,-0.6928,0.5153,0.3127,-0.0099,0.8531
+M2,A;A;A;A;A;A;A;A,Q24L;D30E;K31T;H34Y;E37Q;D38E;L45V;M82T,2.72,yes;yes;yes;yes;yes;yes;yes;yes,yes,-0.5966,1.0142,0.9319,0.5169,-0.7707,0.4128,0.3644,-0.0099,0.8531
+M3,A;A;A;A;A;A;A;A;A,Q24N;D30N;K31N;H34Q;L79T;M82S;Y83F;E329A;K353H,3.28,yes;yes;yes;yes;yes;yes;yes;no;yes,yes,-0.6099,1.1869,0.943,0.4523,-0.7034,0.8163,0.3517,-0.0099,0.8531
+M4,A;A;A;A;A;A,Q24L;D30E;H34L;L79I;M82T;E329N,1.45,yes;yes;yes;yes;yes;no,no,-0.1239,-0.0372,0.5969,0.4539,-0.7055,0.1818,0.2362,-0.0099,0.8531
