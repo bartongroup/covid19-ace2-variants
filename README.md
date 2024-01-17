@@ -1,4 +1,6 @@
 # COVID-19 ACE2 Variants
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10523095.svg)](https://doi.org/10.5281/zenodo.10523095)
+
 **Author:** Stuart MacGowan ([smacgowan@dundee.ac.uk](mailto:smacgowan@dundee.ac.uk))
 
 ## Overview
