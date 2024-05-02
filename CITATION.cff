@@ -1,0 +1,28 @@
+
+@ARTICLE{MacGowan2022-jy,
+  title       = "Missense variants in human {ACE2} strongly affect binding to
+                 {SARS-CoV-2} Spike providing a mechanism for {ACE2} mediated
+                 genetic risk in Covid-19: A case study in affinity predictions
+                 of interface variants",
+  author      = "MacGowan, Stuart A and Barton, Michael I and Kutuzov, Mikhail
+                 and Dushek, Omer and van der Merwe, P Anton and Barton,
+                 Geoffrey J",
+  affiliation = "Division of Computational Biology, School of Life Sciences,
+                 University of Dundee, Dow Street, Dundee, Scotland, United
+                 Kingdom. Sir William Dunn School of Pathology, South Parks
+                 Road, University of Oxford, Oxford, Oxfordshire, United
+                 Kingdom.",
+  journal     = "PLoS Comput. Biol.",
+  publisher   = "Public Library of Science San Francisco, CA USA",
+  volume      =  18,
+  number      =  3,
+  pages       = "e1009922",
+  month       =  mar,
+  year        =  2022,
+  url         = "http://dx.doi.org/10.1371/journal.pcbi.1009922",
+  language    = "en",
+  issn        = "1553-734X, 1553-7358",
+  pmid        = "35235558",
+  doi         = "10.1371/journal.pcbi.1009922",
+  pmc         = "PMC8920257"
+}
